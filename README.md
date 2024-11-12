@@ -2,10 +2,8 @@ SocialEx is a cutting-edge social media platform designed to bring people togeth
 
 
 
-Demo video of our app: https://drive.google.com/file/d/1P5c5zMuf3wmtax_14Ls74Y0JB9OIm1dE/view?usp=drive_link
+Demo video link : https://drive.google.com/file/d/1P5c5zMuf3wmtax_14Ls74Y0JB9OIm1dE/view?usp=drive_link
 
-
-Project Document File: https://drive.google.com/file/d/1PUJDyIQQx6644lrZ324b0kPE1rI3dNR9/view?usp=drive_link 
-
+Document link : https://docs.google.com/document/d/1TD-7TvFd8ijvJUyNAE-Q5jswEW4x3yW0/edit?usp=drivesdk&ouid=116916045612697110681&rtpof=true&sd=true 
 
 
